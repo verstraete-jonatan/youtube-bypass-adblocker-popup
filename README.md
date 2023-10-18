@@ -53,5 +53,3 @@ forcePlay();
 ### note:
 
 Could be improved on. Please send comment. It's also a v2 manifest. If you have the time, feel free to make a PR.
-# youtube-bypass-adblocker-popup
-# youtube-bypass-adblocker-popup
